@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:FoodTracker.xcodeproj">
+      location = "self:/Users/wirawatb/Documents/GitHub/Reviewer/09_PersistData/FoodTracker/FoodTracker.xcodeproj">
    </FileRef>
 </Workspace>

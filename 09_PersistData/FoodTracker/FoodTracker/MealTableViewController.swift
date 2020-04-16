@@ -115,7 +115,7 @@ class MealTableViewController: UITableViewController {
         switch(segue.identifier ?? "") {
             
         case "AddItem":
-            os_log("Adding a new meal.", log: OSLog.default, type: .debug)
+            os_log("Adding a new review.", log: OSLog.default, type: .debug)
             
         case "ShowDetail":
             guard let mealDetailViewController = segue.destination as? MealViewController else {
